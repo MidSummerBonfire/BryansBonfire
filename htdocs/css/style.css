@@ -4,11 +4,23 @@ body, header, nav, main, footer, img, h1, ul {
   margin: 0;
   padding: 0;
   border: 0;
+}
 
+header {
+    
+}
+
+body {
+    background-color:slategray;
+    color: mintcream;
 }
 
 ul {
-  list-style-type: disc;
+    list-style-type: disc;
+    color: lightgrey;
+    width: 100%;
+    float: left;
+    margin: 3em;
 }
 
 nav {
