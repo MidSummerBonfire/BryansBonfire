@@ -1,0 +1,23 @@
+/*BryansBonfire Style Sheet*/
+
+body, header, nav, main, footer, img, h1, ul {
+  margin: 0;
+  padding: 0;
+  border: 0;
+
+}
+
+ul {
+  list-style-type: disc;
+}
+
+nav {
+width: 100%;
+float: right; /*moves links to the right of the page*/
+margin: 5em 3em 0 0;
+}
+    nav ul {
+        list-style-type: none;
+        margin: 0;
+        text-align: center;
+    }
