@@ -101,6 +101,7 @@ margin: 5em 3em 0 0;
   nav {
       margin: 2em;
 
+
       }
     a {
         color: white;
@@ -109,7 +110,8 @@ margin: 5em 3em 0 0;
       }
   footer {
     position: absolute;
-    left: 1em;
+    /* vw is viewport width vh vmin vmax */
+    left: 80vw;
 
   }
 }
